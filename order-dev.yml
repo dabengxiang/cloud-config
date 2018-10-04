@@ -1,15 +1,12 @@
-server:
-  port: 6061
+
 spring:
-  application:
-    name: order
   datasource:
     username: root
     password: root
     url: jdbc:mysql://127.0.0.1:3306/boot-sell?characterEncoding=utf-8&useSSL=false
   jpa:
     show-sql: true
- order:
-    name: lisi
+order:
+   name: lisi
  
 
