@@ -9,4 +9,7 @@ spring:
     url: jdbc:mysql://127.0.0.1:3306/boot-sell?characterEncoding=utf-8&useSSL=false
   jpa:
     show-sql: true
+ order:
+     name: lisi
+ 
 
